@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="JSFTemplateSample:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JSFTemplateSample_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JSFTemplateSample/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="web.war">
+        <element id="artifact" artifact-name="JSFTemplateSample:war exploded" />
+      </element>
+    </root>
+  </artifact>
+</component>
